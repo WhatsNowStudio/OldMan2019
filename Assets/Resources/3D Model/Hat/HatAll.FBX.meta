@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: 2606f507c8951ea48a445ee2f71dde50
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Hat01
+    100002: Hat02
+    100004: Hat03
+    100006: Hat04
+    100008: Hat05
+    100010: Hat06
+    100012: Hat07
+    100014: Hat08
+    100016: Hat10
+    100018: Hat11
+    100020: Hat12
+    100022: Hat13
+    100024: Hat14
+    100026: Hat16
+    100028: Hat17
+    100030: Hat18
+    100032: Hat19
+    100034: Hat20
+    100036: Hat22
+    100038: Hat23
+    100040: Hat24
+    100042: Hat25
+    100044: //RootNode
+    100046: Hat09
+    100048: Hat15
+    100050: Hat21
+    400000: Hat01
+    400002: Hat02
+    400004: Hat03
+    400006: Hat04
+    400008: Hat05
+    400010: Hat06
+    400012: Hat07
+    400014: Hat08
+    400016: Hat10
+    400018: Hat11
+    400020: Hat12
+    400022: Hat13
+    400024: Hat14
+    400026: Hat16
+    400028: Hat17
+    400030: Hat18
+    400032: Hat19
+    400034: Hat20
+    400036: Hat22
+    400038: Hat23
+    400040: Hat24
+    400042: Hat25
+    400044: //RootNode
+    400046: Hat09
+    400048: Hat15
+    400050: Hat21
+    2100000: texture
+    2100002: silver
+    2100004: gold
+    2300000: Hat01
+    2300002: Hat02
+    2300004: Hat03
+    2300006: Hat04
+    2300008: Hat05
+    2300010: Hat06
+    2300012: Hat07
+    2300014: Hat08
+    2300016: Hat10
+    2300018: Hat11
+    2300020: Hat12
+    2300022: Hat13
+    2300024: Hat14
+    2300026: Hat16
+    2300028: Hat17
+    2300030: Hat18
+    2300032: Hat19
+    2300034: Hat20
+    2300036: Hat22
+    2300038: Hat23
+    2300040: Hat24
+    2300042: Hat25
+    2300044: Hat09
+    2300046: Hat15
+    2300048: Hat21
+    3300000: Hat01
+    3300002: Hat02
+    3300004: Hat03
+    3300006: Hat04
+    3300008: Hat05
+    3300010: Hat06
+    3300012: Hat07
+    3300014: Hat08
+    3300016: Hat10
+    3300018: Hat11
+    3300020: Hat12
+    3300022: Hat13
+    3300024: Hat14
+    3300026: Hat16
+    3300028: Hat17
+    3300030: Hat18
+    3300032: Hat19
+    3300034: Hat20
+    3300036: Hat22
+    3300038: Hat23
+    3300040: Hat24
+    3300042: Hat25
+    3300044: Hat09
+    3300046: Hat15
+    3300048: Hat21
+    4300000: Hat04
+    4300002: Hat05
+    4300004: Hat23
+    4300006: Hat22
+    4300008: Hat16
+    4300010: Hat19
+    4300012: Hat10
+    4300014: Hat24
+    4300016: Hat17
+    4300018: Hat07
+    4300020: Hat20
+    4300022: Hat03
+    4300024: Hat01
+    4300026: Hat08
+    4300028: Hat11
+    4300030: Hat14
+    4300032: Hat06
+    4300034: Hat13
+    4300036: Hat02
+    4300038: Hat18
+    4300040: Hat12
+    4300042: Hat25
+    4300044: Hat21
+    4300046: Hat15
+    4300048: Hat09
+    7400000: Take 001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
