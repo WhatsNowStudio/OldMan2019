@@ -46,3 +46,5 @@ MonoBehaviour:
   - Process
   - Rest
   - GoTakePicture
+  - GoMain
+  - GoLevelSelect
