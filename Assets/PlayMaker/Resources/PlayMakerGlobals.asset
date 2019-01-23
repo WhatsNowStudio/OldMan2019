@@ -17,6 +17,12 @@ MonoBehaviour:
     boolVariables: []
     stringVariables:
     - useVariable: 1
+      name: GString/Mode
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 
+    - useVariable: 1
       name: GString/UserData
       tooltip: 
       showInInspector: 0
@@ -53,7 +59,7 @@ MonoBehaviour:
     enumVariables: []
     categories:
     - 
-    variableCategoryIDs: 00000000000000000000000000000000
+    variableCategoryIDs: 0000000000000000000000000000000000000000
   events:
   - Process
   - Rest
@@ -65,3 +71,4 @@ MonoBehaviour:
   - MessageWindowOpen
   - ReturnYes
   - ReturnNo
+  - GoPlayScene
