@@ -80,3 +80,7 @@ MonoBehaviour:
   - CheckOn
   - CheckOff
   - Select
+  - GiveColor
+  - GiveColorDone
+  - GiveTexture
+  - GiveTextureDone
