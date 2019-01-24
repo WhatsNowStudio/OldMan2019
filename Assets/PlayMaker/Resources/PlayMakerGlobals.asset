@@ -72,3 +72,11 @@ MonoBehaviour:
   - ReturnYes
   - ReturnNo
   - GoPlayScene
+  - GiveSelectJson
+  - GiveJsonDone
+  - CreatItem1
+  - CreatItem2
+  - CreatItemDone
+  - CheckOn
+  - CheckOff
+  - Select
