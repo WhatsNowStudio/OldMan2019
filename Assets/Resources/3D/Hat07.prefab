@@ -21,6 +21,7 @@ GameObject:
   - component: {fileID: 4881013949530010}
   - component: {fileID: 33768379871843064}
   - component: {fileID: 23028986880062242}
+  - component: {fileID: 95306222092469556}
   m_Layer: 0
   m_Name: Hat07
   m_TagString: Untagged
@@ -84,3 +85,21 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1410311177204586}
   m_Mesh: {fileID: 4300018, guid: 2606f507c8951ea48a445ee2f71dde50, type: 3}
+--- !u!95 &95306222092469556
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1410311177204586}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 371218b09c5479740bcf777971f7b978, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0

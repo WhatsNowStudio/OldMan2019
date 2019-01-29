@@ -21,6 +21,7 @@ GameObject:
   - component: {fileID: 4951724601164354}
   - component: {fileID: 33237828666748124}
   - component: {fileID: 23125084590827884}
+  - component: {fileID: 95552361053008894}
   m_Layer: 0
   m_Name: Glasses17
   m_TagString: Untagged
@@ -84,3 +85,21 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1523219880007570}
   m_Mesh: {fileID: 4300030, guid: 21aea1822208b7e48a0256e114eea6ac, type: 3}
+--- !u!95 &95552361053008894
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1523219880007570}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 371218b09c5479740bcf777971f7b978, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
