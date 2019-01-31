@@ -29,6 +29,7 @@ ModelImporter:
     100046: Hat09
     100048: Hat15
     100050: Hat21
+    100052: Sphere001
     400000: Hat01
     400002: Hat02
     400004: Hat03
@@ -55,9 +56,11 @@ ModelImporter:
     400046: Hat09
     400048: Hat15
     400050: Hat21
+    400052: Sphere001
     2100000: texture
     2100002: silver
     2100004: gold
+    2100006: No Name
     2300000: Hat01
     2300002: Hat02
     2300004: Hat03
@@ -83,6 +86,7 @@ ModelImporter:
     2300044: Hat09
     2300046: Hat15
     2300048: Hat21
+    2300050: Sphere001
     3300000: Hat01
     3300002: Hat02
     3300004: Hat03
@@ -108,6 +112,7 @@ ModelImporter:
     3300044: Hat09
     3300046: Hat15
     3300048: Hat21
+    3300050: Sphere001
     4300000: Hat04
     4300002: Hat05
     4300004: Hat23
@@ -133,6 +138,7 @@ ModelImporter:
     4300044: Hat21
     4300046: Hat15
     4300048: Hat09
+    4300050: Sphere001
     7400000: Take 001
     9500000: //RootNode
     2186277476908879412: ImportLogs
