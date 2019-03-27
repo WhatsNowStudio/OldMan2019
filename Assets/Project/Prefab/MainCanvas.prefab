@@ -35209,19 +35209,19 @@ MonoBehaviour:
         showInInspector: 1
         networkSync: 0
         value: "{   \"Level\": {     \"0\": {       \"Name\": \"\u95DC\u5361\u4E00\",
-          \      \"UserDataNumber\": \"=5\",       \"Hat\": \"=2\",       \"Hat_Color\":
-          \"=2\",       \"Hat_Texture\": \"=2\",       \"Hat_LeftRight\": \"=2\",
-          \      \"Hat_Rotate\": \"=2\",       \"Hat_Scale\": \"=2\",       \"Hat_UpDown\":
-          \"=2\",       \"Glasses\": \"=2\",       \"Glasses_Color\": \"=2\",       \"Glasses_Texture\":
-          \"=2\",       \"Glasses_LeftRight\": \"=2\",       \"Glasses_Rotate\": \"=2\",
-          \      \"Glasses_Scale\": \"=2\",       \"Glasses_UpDown\": \"=2\"     },
+          \      \"UserDataNumber\": \"=5\",       \"Hat\": \"=1\",       \"Hat_Color\":
+          \"=1\",       \"Hat_Texture\": \"=0\",       \"Hat_LeftRight\": \"=3\",
+          \      \"Hat_Rotate\": \"=3\",       \"Hat_Scale\": \"=3\",       \"Hat_UpDown\":
+          \"=3\",       \"Glasses\": \"=0\",       \"Glasses_Color\": \"=0\",       \"Glasses_Texture\":
+          \"=0\",       \"Glasses_LeftRight\": \"=3\",       \"Glasses_Rotate\": \"=3\",
+          \      \"Glasses_Scale\": \"=3\",       \"Glasses_UpDown\": \"=3\"     },
           \    \"1\": {       \"Name\": \"\u95DC\u5361\u4E8C\",       \"UserDataNumber\":
-          \"=6\",       \"Hat\": \"=13\",       \"Hat_Color\": \"=5\",       \"Hat_Texture\":
-          \"=8\",       \"Hat_LeftRight\": \"=1\",       \"Hat_Rotate\": \"=0\",       \"Hat_Scale\":
-          \"=4\",       \"Hat_UpDown\": \"=4\",       \"Glasses\": \"=19\",       \"Glasses_Color\":
-          \"=7\",       \"Glasses_Texture\": \"=9\",       \"Glasses_LeftRight\":
-          \"=2\",       \"Glasses_Rotate\": \"=1\",       \"Glasses_Scale\": \"=3\",
-          \      \"Glasses_UpDown\": \"=4\"     },     \"2\": {       \"Name\": \"\u95DC\u5361\u4E09\",
+          \"=6\",       \"Hat\": \"=0\",       \"Hat_Color\": \"=0\",       \"Hat_Texture\":
+          \"=0\",       \"Hat_LeftRight\": \"=3\",       \"Hat_Rotate\": \"=3\",       \"Hat_Scale\":
+          \"=3\",       \"Hat_UpDown\": \"=3\",       \"Glasses\": \"=1\",       \"Glasses_Color\":
+          \"=0\",       \"Glasses_Texture\": \"=1\",       \"Glasses_LeftRight\":
+          \"=3\",       \"Glasses_Rotate\": \"=3\",       \"Glasses_Scale\": \"=3\",
+          \      \"Glasses_UpDown\": \"=3\"     },     \"2\": {       \"Name\": \"\u95DC\u5361\u4E09\",
           \      \"UserDataNumber\": \"=7\",       \"Hat\": \"=9\",       \"Hat_Color\":
           \"=2\",       \"Hat_Texture\": \"=5\",       \"Hat_LeftRight\": \"=2\",
           \      \"Hat_Rotate\": \"=3\",       \"Hat_Scale\": \"=3\",       \"Hat_UpDown\":
@@ -64134,7 +64134,7 @@ MonoBehaviour:
         - 
         - 
         actionEnabled: 0101
-        actionIsOpen: 0001
+        actionIsOpen: 0101
         actionStartIndex: 0000000020000000
         actionHashCodes: 7370ae051012c100
         unityObjectParams: []
@@ -65334,7 +65334,7 @@ MonoBehaviour:
         - 
         - 
         actionEnabled: 010101
-        actionIsOpen: 000100
+        actionIsOpen: 000000
         actionStartIndex: 000000000f00000012000000
         actionHashCodes: d9ade603c030f10376d0e601
         unityObjectParams: []
@@ -66097,8 +66097,8 @@ MonoBehaviour:
       colorIndex: 1
       position:
         serializedVersion: 2
-        x: 370
-        y: 598
+        x: 372
+        y: 570.9922
         width: 100
         height: 48
       isBreakpoint: 0
@@ -66133,7 +66133,7 @@ MonoBehaviour:
         - 
         - 
         actionEnabled: 01010101
-        actionIsOpen: 00000001
+        actionIsOpen: 00000000
         actionStartIndex: 0000000003000000070000000e000000
         actionHashCodes: 9ff80c02ea32a105afff110576d0e601
         unityObjectParams: []
@@ -66293,8 +66293,8 @@ MonoBehaviour:
       colorIndex: 1
       position:
         serializedVersion: 2
-        x: 295.1797
-        y: 668.35156
+        x: 297.1797
+        y: 641.34375
         width: 100
         height: 32
       isBreakpoint: 0
@@ -66305,7 +66305,7 @@ MonoBehaviour:
           name: FINISHED
           isSystemEvent: 1
           isGlobal: 0
-        toState: "\u53D6\u5F97Json-"
+        toState: "\u9078\u52300?"
         linkStyle: 0
         linkConstraint: 0
         colorIndex: 0
@@ -66370,8 +66370,8 @@ MonoBehaviour:
       colorIndex: 1
       position:
         serializedVersion: 2
-        x: 440.1797
-        y: 668.35156
+        x: 442.1797
+        y: 641.34375
         width: 100
         height: 32
       isBreakpoint: 0
@@ -66382,7 +66382,7 @@ MonoBehaviour:
           name: FINISHED
           isSystemEvent: 1
           isGlobal: 0
-        toState: "\u53D6\u5F97Json-"
+        toState: "\u9078\u52300?"
         linkStyle: 0
         linkConstraint: 0
         colorIndex: 0
@@ -66447,8 +66447,8 @@ MonoBehaviour:
       colorIndex: 5
       position:
         serializedVersion: 2
-        x: 406.1797
-        y: 1695.6328
+        x: 410.1797
+        y: 1728.6328
         width: 100
         height: 32
       isBreakpoint: 0
@@ -66539,8 +66539,8 @@ MonoBehaviour:
       colorIndex: 5
       position:
         serializedVersion: 2
-        x: 406.1797
-        y: 1775.6094
+        x: 410.1797
+        y: 1808.6094
         width: 100
         height: 16
       isBreakpoint: 0
@@ -66801,8 +66801,8 @@ MonoBehaviour:
       colorIndex: 2
       position:
         serializedVersion: 2
-        x: 365.1797
-        y: 752.35156
+        x: 370.1797
+        y: 795.35156
         width: 100
         height: 16
       isBreakpoint: 0
@@ -66821,7 +66821,7 @@ MonoBehaviour:
         - 
         - 
         actionEnabled: 01010101
-        actionIsOpen: 01010000
+        actionIsOpen: 01010100
         actionStartIndex: 00000000080000000d0000001a000000
         actionHashCodes: 7370ae0552221a0227ffbc035e69bb04
         unityObjectParams: []
@@ -67079,8 +67079,8 @@ MonoBehaviour:
       colorIndex: 2
       position:
         serializedVersion: 2
-        x: 355.1797
-        y: 845.35156
+        x: 359.1797
+        y: 878.35156
         width: 129
         height: 32
       isBreakpoint: 0
@@ -67360,8 +67360,8 @@ MonoBehaviour:
       colorIndex: 3
       position:
         serializedVersion: 2
-        x: 372.96094
-        y: 907.25
+        x: 376.96094
+        y: 940.25
         width: 100
         height: 16
       isBreakpoint: 0
@@ -67638,8 +67638,8 @@ MonoBehaviour:
       colorIndex: 3
       position:
         serializedVersion: 2
-        x: 358.64844
-        y: 1002.5469
+        x: 362.64844
+        y: 1035.5469
         width: 145
         height: 32
       isBreakpoint: 0
@@ -67988,8 +67988,8 @@ MonoBehaviour:
       colorIndex: 4
       position:
         serializedVersion: 2
-        x: 375.6797
-        y: 1067.3516
+        x: 379.6797
+        y: 1100.3516
         width: 108
         height: 16
       isBreakpoint: 0
@@ -68266,8 +68266,8 @@ MonoBehaviour:
       colorIndex: 4
       position:
         serializedVersion: 2
-        x: 358.1797
-        y: 1166.3516
+        x: 362.1797
+        y: 1199.3516
         width: 169
         height: 32
       isBreakpoint: 0
@@ -68563,8 +68563,8 @@ MonoBehaviour:
       colorIndex: 5
       position:
         serializedVersion: 2
-        x: 395.1797
-        y: 1222.3516
+        x: 399.1797
+        y: 1255.3516
         width: 102
         height: 16
       isBreakpoint: 0
@@ -68841,8 +68841,8 @@ MonoBehaviour:
       colorIndex: 5
       position:
         serializedVersion: 2
-        x: 371.1797
-        y: 1315.3516
+        x: 375.1797
+        y: 1348.3516
         width: 173
         height: 32
       isBreakpoint: 0
@@ -69138,8 +69138,8 @@ MonoBehaviour:
       colorIndex: 6
       position:
         serializedVersion: 2
-        x: 394.6797
-        y: 1374.8516
+        x: 398.6797
+        y: 1407.8516
         width: 114
         height: 16
       isBreakpoint: 0
@@ -69416,8 +69416,8 @@ MonoBehaviour:
       colorIndex: 6
       position:
         serializedVersion: 2
-        x: 382.1797
-        y: 1462.3516
+        x: 386.1797
+        y: 1495.3516
         width: 156
         height: 32
       isBreakpoint: 0
@@ -69720,8 +69720,8 @@ MonoBehaviour:
       colorIndex: 7
       position:
         serializedVersion: 2
-        x: 396.6797
-        y: 1523.3516
+        x: 400.6797
+        y: 1556.3516
         width: 100
         height: 16
       isBreakpoint: 0
@@ -69998,8 +69998,8 @@ MonoBehaviour:
       colorIndex: 7
       position:
         serializedVersion: 2
-        x: 379.1797
-        y: 1613.3516
+        x: 383.1797
+        y: 1646.3516
         width: 149
         height: 32
       isBreakpoint: 0
@@ -71245,8 +71245,8 @@ MonoBehaviour:
       colorIndex: 1
       position:
         serializedVersion: 2
-        x: 370
-        y: 542
+        x: 372
+        y: 514.9922
         width: 100
         height: 32
       isBreakpoint: 0
@@ -71273,7 +71273,7 @@ MonoBehaviour:
         - 
         - 
         actionEnabled: 01010101
-        actionIsOpen: 00000101
+        actionIsOpen: 01010000
         actionStartIndex: 00000000070000000b00000010000000
         actionHashCodes: 15a3be05184b5704bf83c900b2cf1000
         unityObjectParams: []
@@ -71445,6 +71445,682 @@ MonoBehaviour:
         - everyFrame
         paramDataPos: 000000000000000001000000010000000000000000000000010000000000000002000000030000000000000001000000020000000000000001000000030000000100000000000000010000000000000001000000
         paramByteDataSize: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000100000001000000
+    - name: "\u9078\u52300?"
+      description: 
+      colorIndex: 0
+      position:
+        serializedVersion: 2
+        x: 366
+        y: 711
+        width: 100
+        height: 48
+      isBreakpoint: 0
+      isSequence: 0
+      hideUnused: 0
+      transitions:
+      - fsmEvent:
+          name: Y
+          isSystemEvent: 0
+          isGlobal: 0
+        toState: "\u91CD\u8A2D\u8A72\u7269\u54C1\u72C0\u614B"
+        linkStyle: 0
+        linkConstraint: 0
+        colorIndex: 0
+      - fsmEvent:
+          name: N
+          isSystemEvent: 0
+          isGlobal: 0
+        toState: "\u53D6\u5F97Json-"
+        linkStyle: 0
+        linkConstraint: 0
+        colorIndex: 0
+      actionData:
+        actionNames:
+        - HutongGames.PlayMaker.Actions.BuildString
+        - HutongGames.PlayMaker.Actions.StringCompare
+        customNames:
+        - 
+        - 
+        actionEnabled: 0101
+        actionIsOpen: 0101
+        actionStartIndex: 0000000007000000
+        actionHashCodes: 7370ae050c0e5502
+        unityObjectParams: []
+        fsmGameObjectParams: []
+        fsmOwnerDefaultParams: []
+        animationCurveParams: []
+        functionCallParams: []
+        fsmTemplateControlParams: []
+        fsmEventTargetParams: []
+        fsmPropertyParams: []
+        layoutOptionParams: []
+        fsmStringParams:
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: String/Info/
+        - useVariable: 1
+          name: String/State
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 
+        - useVariable: 1
+          name: String/Public
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 
+        - useVariable: 1
+          name: String/Public
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 0
+        fsmObjectParams: []
+        fsmVarParams: []
+        fsmArrayParams: []
+        fsmEnumParams: []
+        fsmFloatParams: []
+        fsmIntParams: []
+        fsmBoolParams:
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 1
+        - useVariable: 1
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 0
+        fsmVector2Params: []
+        fsmVector3Params: []
+        fsmColorParams: []
+        fsmRectParams: []
+        fsmQuaternionParams: []
+        stringParams:
+        - Y
+        - N
+        byteData: 0000
+        arrayParamSizes: 02000000
+        arrayParamTypes:
+        - HutongGames.PlayMaker.FsmString
+        customTypeSizes: 
+        customTypeNames: []
+        paramDataType: 0c000000120000001200000012000000110000001200000001000000120000001200000017000000170000001100000001000000
+        paramName:
+        - stringParts
+        - 
+        - 
+        - separator
+        - addToEnd
+        - storeResult
+        - everyFrame
+        - stringVariable
+        - compareTo
+        - equalEvent
+        - notEqualEvent
+        - storeResult
+        - everyFrame
+        paramDataPos: 00000000000000000100000002000000000000000300000000000000040000000500000000000000010000000100000001000000
+        paramByteDataSize: 00000000000000000000000000000000000000000000000001000000000000000000000000000000000000000000000001000000
+    - name: "\u91CD\u8A2D\u8A72\u7269\u54C1\u72C0\u614B"
+      description: 
+      colorIndex: 0
+      position:
+        serializedVersion: 2
+        x: 562
+        y: 727
+        width: 114
+        height: 32
+      isBreakpoint: 0
+      isSequence: 0
+      hideUnused: 0
+      transitions:
+      - fsmEvent:
+          name: FINISHED
+          isSystemEvent: 1
+          isGlobal: 0
+        toState: "\u63DB\u8A2D\u7F6E\u773C\u93E1?"
+        linkStyle: 0
+        linkConstraint: 0
+        colorIndex: 0
+      actionData:
+        actionNames:
+        - HutongGames.PlayMaker.Actions.BuildString
+        - HutongGames.PlayMaker.Actions.SetFsmString
+        - HutongGames.PlayMaker.Actions.BuildString
+        - HutongGames.PlayMaker.Actions.SetFsmString
+        - HutongGames.PlayMaker.Actions.BuildString
+        - HutongGames.PlayMaker.Actions.SetFsmString
+        - HutongGames.PlayMaker.Actions.BuildString
+        - HutongGames.PlayMaker.Actions.SetFsmString
+        - HutongGames.PlayMaker.Actions.BuildString
+        - HutongGames.PlayMaker.Actions.SetFsmString
+        - HutongGames.PlayMaker.Actions.BuildString
+        - HutongGames.PlayMaker.Actions.SetFsmString
+        customNames:
+        - 
+        - 
+        - 
+        - 
+        - 
+        - 
+        - 
+        - 
+        - 
+        - 
+        - 
+        - 
+        actionEnabled: 010101010101010101010101
+        actionIsOpen: 000000000000000000000101
+        actionStartIndex: 00000000080000000d000000150000001a00000022000000270000002f000000340000003c0000004100000049000000
+        actionHashCodes: 7370ae0552221a027370ae0552221a027370ae0552221a027370ae0552221a027370ae0552221a027370ae0552221a02
+        unityObjectParams: []
+        fsmGameObjectParams: []
+        fsmOwnerDefaultParams:
+        - ownerOption: 0
+          gameObject:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: {fileID: 0}
+        - ownerOption: 0
+          gameObject:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: {fileID: 0}
+        - ownerOption: 0
+          gameObject:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: {fileID: 0}
+        - ownerOption: 0
+          gameObject:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: {fileID: 0}
+        - ownerOption: 0
+          gameObject:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: {fileID: 0}
+        - ownerOption: 0
+          gameObject:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: {fileID: 0}
+        animationCurveParams: []
+        functionCallParams: []
+        fsmTemplateControlParams: []
+        fsmEventTargetParams: []
+        fsmPropertyParams: []
+        layoutOptionParams: []
+        fsmStringParams:
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: String/Info/
+        - useVariable: 1
+          name: String/State
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: _Color
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 
+        - useVariable: 1
+          name: String/Public
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: DataProcess
+        - useVariable: 1
+          name: String/Public
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 0
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: String/Info/
+        - useVariable: 1
+          name: String/State
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: _LeftRight
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 
+        - useVariable: 1
+          name: String/Public
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: DataProcess
+        - useVariable: 1
+          name: String/Public
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 3
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: String/Info/
+        - useVariable: 1
+          name: String/State
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: _Rotate
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 
+        - useVariable: 1
+          name: String/Public
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: DataProcess
+        - useVariable: 1
+          name: String/Public
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 3
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: String/Info/
+        - useVariable: 1
+          name: String/State
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: _Scale
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 
+        - useVariable: 1
+          name: String/Public
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: DataProcess
+        - useVariable: 1
+          name: String/Public
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 3
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: String/Info/
+        - useVariable: 1
+          name: String/State
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: _Texture
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 
+        - useVariable: 1
+          name: String/Public
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: DataProcess
+        - useVariable: 1
+          name: String/Public
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 0
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: String/Info/
+        - useVariable: 1
+          name: String/State
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: _UpDown
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 
+        - useVariable: 1
+          name: String/Public
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: DataProcess
+        - useVariable: 1
+          name: String/Public
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 3
+        fsmObjectParams: []
+        fsmVarParams: []
+        fsmArrayParams: []
+        fsmEnumParams: []
+        fsmFloatParams: []
+        fsmIntParams: []
+        fsmBoolParams:
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 1
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 1
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 1
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 1
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 1
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 1
+        fsmVector2Params: []
+        fsmVector3Params: []
+        fsmColorParams: []
+        fsmRectParams: []
+        fsmQuaternionParams: []
+        stringParams: []
+        byteData: 000000000000000000000000
+        arrayParamSizes: 030000000300000003000000030000000300000003000000
+        arrayParamTypes:
+        - HutongGames.PlayMaker.FsmString
+        - HutongGames.PlayMaker.FsmString
+        - HutongGames.PlayMaker.FsmString
+        - HutongGames.PlayMaker.FsmString
+        - HutongGames.PlayMaker.FsmString
+        - HutongGames.PlayMaker.FsmString
+        customTypeSizes: 
+        customTypeNames: []
+        paramDataType: 0c0000001200000012000000120000001200000011000000120000000100000014000000120000001200000012000000010000000c0000001200000012000000120000001200000011000000120000000100000014000000120000001200000012000000010000000c0000001200000012000000120000001200000011000000120000000100000014000000120000001200000012000000010000000c0000001200000012000000120000001200000011000000120000000100000014000000120000001200000012000000010000000c0000001200000012000000120000001200000011000000120000000100000014000000120000001200000012000000010000000c000000120000001200000012000000120000001100000012000000010000001400000012000000120000001200000001000000
+        paramName:
+        - stringParts
+        - 
+        - 
+        - 
+        - separator
+        - addToEnd
+        - storeResult
+        - everyFrame
+        - gameObject
+        - fsmName
+        - variableName
+        - setValue
+        - everyFrame
+        - stringParts
+        - 
+        - 
+        - 
+        - separator
+        - addToEnd
+        - storeResult
+        - everyFrame
+        - gameObject
+        - fsmName
+        - variableName
+        - setValue
+        - everyFrame
+        - stringParts
+        - 
+        - 
+        - 
+        - separator
+        - addToEnd
+        - storeResult
+        - everyFrame
+        - gameObject
+        - fsmName
+        - variableName
+        - setValue
+        - everyFrame
+        - stringParts
+        - 
+        - 
+        - 
+        - separator
+        - addToEnd
+        - storeResult
+        - everyFrame
+        - gameObject
+        - fsmName
+        - variableName
+        - setValue
+        - everyFrame
+        - stringParts
+        - 
+        - 
+        - 
+        - separator
+        - addToEnd
+        - storeResult
+        - everyFrame
+        - gameObject
+        - fsmName
+        - variableName
+        - setValue
+        - everyFrame
+        - stringParts
+        - 
+        - 
+        - 
+        - separator
+        - addToEnd
+        - storeResult
+        - everyFrame
+        - gameObject
+        - fsmName
+        - variableName
+        - setValue
+        - everyFrame
+        paramDataPos: 000000000000000001000000020000000300000000000000040000000000000000000000050000000600000007000000010000000100000008000000090000000a0000000b000000010000000c00000002000000010000000d0000000e0000000f00000003000000020000001000000011000000120000001300000002000000140000000400000002000000150000001600000017000000050000000300000018000000190000001a0000001b000000030000001c00000006000000030000001d0000001e0000001f00000007000000040000002000000021000000220000002300000004000000240000000800000004000000250000002600000027000000090000000500000028000000290000002a0000002b000000050000002c0000000a000000050000002d0000002e0000002f0000000b000000
+        paramByteDataSize: 000000000000000000000000000000000000000000000000000000000100000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000001000000000000000000000000000000000000000100000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000001000000000000000000000000000000000000000000000000000000000000000100000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000001000000000000000000000000000000000000000100000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000001000000
     events:
     - name: FINISHED
       isSystemEvent: 1
@@ -79808,7 +80484,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 114213711174716324}
   m_HandleRect: {fileID: 224997936453978342}
   m_Direction: 2
-  m_Value: 0
+  m_Value: 1
   m_Size: 0.99999994
   m_NumberOfSteps: 0
   m_OnValueChanged:
@@ -85402,7 +86078,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
-  m_AnchoredPosition: {x: -170.8, y: 0}
+  m_AnchoredPosition: {x: -170.80078, y: 0}
   m_SizeDelta: {x: 300, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!224 &224042893003957778
@@ -85612,7 +86288,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 268.8, y: -20}
+  m_AnchoredPosition: {x: 268.80078, y: -20}
   m_SizeDelta: {x: 220, y: 220}
   m_Pivot: {x: 0, y: 1}
 --- !u!224 &224088753175379088
@@ -86185,7 +86861,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.000004083035, y: 0.000011583167}
+  m_AnchoredPosition: {x: 0.000004083035, y: -0.00005941782}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 1}
 --- !u!224 &224159877666354898
@@ -88642,7 +89318,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
-  m_AnchoredPosition: {x: -170.80017, y: 0}
+  m_AnchoredPosition: {x: -170.80078, y: 0}
   m_SizeDelta: {x: 300, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!224 &224609643776556408
@@ -89947,7 +90623,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 321.08, y: 20}
+  m_AnchoredPosition: {x: 321.07812, y: 20}
   m_SizeDelta: {x: 256, y: 256}
   m_Pivot: {x: 0, y: 0}
 --- !u!224 &224849734938863958
